@@ -26,7 +26,7 @@ GitHub untuk version control
 
 🚀 Cara Menjalankan
 
-##Clone repository:##
+Clone repository:
 
 git clone https://github.com/auliaastika/movie-rag-chatbot.git
 cd movie-rag-chatbot

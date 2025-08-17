@@ -4,13 +4,13 @@ Movie RAG Chatbot adalah aplikasi chatbot yang menggunakan Retrieval Augmented G
 
 ✨ Fitur
 
-🔎 Cari informasi film berdasarkan judul
+- 🔎 Cari informasi film berdasarkan judul
 
-🎥 Rekomendasi film mirip
+- 🎥 Rekomendasi film mirip
 
-🤖 Chatbot berbasis AI dengan RAG
+- 🤖 Chatbot berbasis AI dengan RAG
 
-📚 Dapat diintegrasikan dengan dataset film
+- 📚 Dapat diintegrasikan dengan dataset film
 
 🛠️ Tech Stack
 
@@ -26,25 +26,25 @@ GitHub untuk version control
 
 🚀 Cara Menjalankan
 
-Clone repository:
+- Clone repository:
 
 git clone https://github.com/auliaastika/movie-rag-chatbot.git
 cd movie-rag-chatbot
 
 
-Buat virtual environment:
+- Buat virtual environment:
 
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 
 
-Install dependencies:
+- Install dependencies:
 
 pip install -r requirements.txt
 
 
-Jalankan aplikasi:
+- Jalankan aplikasi:
 
 streamlit run app.py
 
@@ -55,11 +55,11 @@ python main.py
 
 📌 To Do
 
- Tambah dataset film
+ - Tambah dataset film
 
- Integrasi ke UI web
+ - Integrasi ke UI web
 
- Deploy ke cloud (Render/Heroku)
+ - Deploy ke cloud (Render/Heroku)
 
 📄 Lisensi
 

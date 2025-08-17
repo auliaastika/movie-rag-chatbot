@@ -14,9 +14,9 @@ Movie RAG Chatbot adalah aplikasi chatbot yang menggunakan Retrieval Augmented G
 
 🛠️ Tech Stack
 
-Python 3.x
+- Python 3.x
 
-LangChain
+- LangChain
 
 OpenAI API
 
@@ -26,7 +26,7 @@ GitHub untuk version control
 
 🚀 Cara Menjalankan
 
-Clone repository:
+##Clone repository:##
 
 git clone https://github.com/auliaastika/movie-rag-chatbot.git
 cd movie-rag-chatbot

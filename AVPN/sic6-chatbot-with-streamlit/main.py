@@ -2,10 +2,6 @@ from dotenv import load_dotenv
 import os, sys
 import asyncio
 
-# 🔧 Disable LangSmith supaya gak keluar warning API Key
-os.environ["LANGCHAIN_TRACING_V2"] = "false"
-os.environ["LANGCHAIN_ENDPOINT"] = ""
-os.environ["LANGCHAIN_API_KEY"] = ""
 
 # Patch untuk streamlit supaya ada event loop
 try:

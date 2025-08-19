@@ -8,3 +8,4 @@ PyMuPDF
 langchain-groq
 langgraph
 pypdf
+PyPDF2
